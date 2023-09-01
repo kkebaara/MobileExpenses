@@ -1,10 +1,12 @@
 # Mobile Expenses App for IPhone and Android
 
+The app is made in React Native
 
+$Clone the repo
 
-$ clone app
-$ npm install
-$ npm start
+$npm install
+
+$npm start
 
 Live Database on Firebase.
 
